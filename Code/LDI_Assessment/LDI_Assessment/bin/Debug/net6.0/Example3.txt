@@ -1,0 +1,3 @@
+﻿Print "hello" + " " + "world";
+Print ("foo" + "bar") == "foobar";
+Print "10 corgis" != ("10" + "corgis");

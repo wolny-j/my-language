@@ -1,0 +1,5 @@
+﻿Print 1 - 2;
+Print 2.5 + 2.5 - 1.25;
+**Comment in the middle
+Print (10 * 2) / 6.0;
+Print 8.5 / (2 * 9) - -3;

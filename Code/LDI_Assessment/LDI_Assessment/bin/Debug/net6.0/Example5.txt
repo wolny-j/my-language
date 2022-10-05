@@ -1,0 +1,14 @@
+﻿is_Running = True;
+shopping_List = "Shopping list: ";
+**Loop start
+While(is_Running == True){
+	item = Read("Add an item to the shopping list: ");
+
+	If(item == ""){
+		is_Running = False;
+	};
+	If(item != ""){
+		shopping_List = shopping_List + item + ", ";
+	};
+};
+Print shopping_List;

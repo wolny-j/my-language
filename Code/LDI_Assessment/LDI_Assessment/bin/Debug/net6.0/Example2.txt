@@ -1,0 +1,8 @@
+﻿Print True == True;
+Print True != False;
+Print 5 < 10;
+Print !((( 5 - 4 ) > (3 * 2)) == !False);
+Print True And True;
+Print False And True;
+Print (0 < 1) Or False;
+Print False Or False;

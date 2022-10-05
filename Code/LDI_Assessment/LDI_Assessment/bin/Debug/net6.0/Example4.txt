@@ -1,0 +1,3 @@
+﻿quickMaths = 9 + 10;
+quickMaths = quickMaths + 2;
+Print quickMaths;
